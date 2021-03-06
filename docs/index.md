@@ -8,7 +8,7 @@
 
 
 -   Free software: MIT license
--   Documentation: <https://geodemo.gishub.org>
+-   Documentation: <https://crose26_geodemo.gishub.org>
     
 
 ## Features
