@@ -47,4 +47,4 @@ nav:
     - API Reference:
           - crose26_geodemo module: crose26_geodemo.md
     - Notebooks:
-            - notebooks/folium_intro.ipynb
+            - Notebooks/Example Notebook.ipynb
