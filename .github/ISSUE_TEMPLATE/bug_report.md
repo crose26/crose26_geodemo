@@ -8,7 +8,7 @@ labels: bug
 
 ### Environment Information
 
--   crose26_geodemo version:
+-   geodemo version:
 -   Python version:
 -   Operating System:
 
