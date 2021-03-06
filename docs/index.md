@@ -1,14 +1,14 @@
-# Welcome to crose26_geodemo
+# Welcome to geodemo
 
 
-[![image](https://img.shields.io/pypi/v/crose26_geodemo.svg)](https://pypi.python.org/pypi/crose26_geodemo)
+[![image](https://img.shields.io/pypi/v/geodemo.svg)](https://pypi.python.org/pypi/geodemo)
 
 
-**A Python Package for interactive mapping**
+**A Python package for interactive mapping**
 
 
 -   Free software: MIT license
--   Documentation: <https://crose26.github.io/crose26_geodemo>
+-   Documentation: <https://geodemo.gishub.org>
     
 
 ## Features

@@ -1,7 +1,7 @@
 # Usage
 
-To use crose26_geodemo in a project:
+To use geodemo in a project:
 
 ```
-import crose26_geodemo
+import geodemo
 ```
