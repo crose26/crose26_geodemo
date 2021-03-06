@@ -46,5 +46,3 @@ nav:
     - Report Issues: https://github.com/crose26/crose26_geodemo/issues
     - API Reference:
           - crose26_geodemo module: crose26_geodemo.md
-    - Notebooks:
-            - Notebooks/Example Notebook.ipynb
