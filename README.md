@@ -6,7 +6,7 @@
 
 **A Python Package for interactive mapping**
 
-
+-   Lab 4
 -   Free software: MIT license
 -   Documentation: https://crose26.github.io/crose26_geodemo
     
